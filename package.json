@@ -1,0 +1,27 @@
+{
+  "name": "test-port-server",
+  "version": "0.0.1",
+  "description": "Use this package to run and test a dummy echo server to test if it is listening to the network.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vijaykrishnavanshi/test-port-server.git"
+  },
+  "keywords": [
+    "test-server",
+    "test-port-availability",
+    "server",
+    "port",
+    "network"
+  ],
+  "author": "Vijay Krishnavanshi",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/vijaykrishnavanshi/test-port-server/issues"
+  },
+  "homepage": "https://github.com/vijaykrishnavanshi/test-port-server#readme"
+}
